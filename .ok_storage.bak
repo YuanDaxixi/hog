@@ -31,3 +31,6 @@
 'Question 11-attempts', (15360, 71)
 'Question 11-last_attempt', (15872, 74)
 'Question 11-correct', (16384, 70)
+'Question 12-attempts', (16896, 71)
+'Question 12-last_attempt', (17408, 74)
+'Question 12-correct', (17920, 70)
